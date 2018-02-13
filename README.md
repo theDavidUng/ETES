@@ -3,6 +3,8 @@ Electronic Ticketing System
 
 Info: simple web application that connects local event ticket owners to interested people
 
+Side project during junior year in Computer Sicence at San Jose State
+
 Developers: David Ung, Ryan Zaeni, Nikitha Adira, Pamela Vinco
 
 Tutorial/Demo Video Link: https://youtu.be/4oSZ4m5X6PU
